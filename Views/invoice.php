@@ -17,12 +17,12 @@
       <div class="container-fluid">
         <div class="row mb-2">
           <div class="col-sm-6">
-            <h1>Invoice</h1>
+            <h1>Factura</h1>
           </div>
           <div class="col-sm-6">
             <ol class="breadcrumb float-sm-right">
               <li class="breadcrumb-item"><a href="#">Home</a></li>
-              <li class="breadcrumb-item active">Invoice</li>
+              <li class="breadcrumb-item active">Factura</li>
             </ol>
           </div>
         </div>
@@ -34,8 +34,8 @@
         <div class="row">
           <div class="col-12">
             <div class="callout callout-info">
-              <h5><i class="fas fa-info"></i> Note:</h5>
-              This page has been enhanced for printing. Click the print button at the bottom of the invoice to test.
+              <h5><i class="fas fa-info"></i> Nota:</h5>
+              Esta página ha sido mejorada para su impresión. Haga clic en el botón Imprimir en la parte inferior de la factura para realizar la prueba.
             </div>
 
 
@@ -46,7 +46,7 @@
                 <div class="col-12">
                   <h4>
                     <i class="fas fa-globe"></i> AdminLTE, Inc.
-                    <small class="float-right">Date: 2/10/2014</small>
+                    <small class="float-right">Fecha: 2/10/2014</small>
                   </h4>
                 </div>
                 <!-- /.col -->
@@ -59,7 +59,7 @@
                     <strong>Admin, Inc.</strong><br>
                     795 Folsom Ave, Suite 600<br>
                     San Francisco, CA 94107<br>
-                    Phone: (804) 123-5432<br>
+                    Telefono: (804) 123-5432<br>
                     Email: info@almasaeedstudio.com
                   </address>
                 </div>
@@ -93,39 +93,39 @@
                     <thead>
                     <tr>
                       <th>Qty</th>
-                      <th>Product</th>
+                      <th>Producto</th>
                       <th>Serial #</th>
-                      <th>Description</th>
+                      <th>Descripcion</th>
                       <th>Subtotal</th>
                     </tr>
                     </thead>
                     <tbody>
                     <tr>
                       <td>1</td>
-                      <td>Call of Duty</td>
+                      <td>Obligaciones</td>
                       <td>455-981-221</td>
-                      <td>El snort testosterone trophy driving gloves handsome</td>
+                      <td>El Trofeo de Testosterona que regala un bonito par de guantes.</td>
                       <td>$64.50</td>
                     </tr>
                     <tr>
                       <td>1</td>
-                      <td>Need for Speed IV</td>
+                      <td>Necesidad de velocidad IV</td>
                       <td>247-925-726</td>
-                      <td>Wes Anderson umami biodiesel</td>
+                      <td>Wes Anderson Umami Biodiésel</td>
                       <td>$50.00</td>
                     </tr>
                     <tr>
                       <td>1</td>
-                      <td>Monsters DVD</td>
+                      <td>DVD de monstruos</td>
                       <td>735-845-642</td>
-                      <td>Terry Richardson helvetica tousled street art master</td>
+                      <td>Terry Richardson helvetica despeinó al maestro del arte callejero</td>
                       <td>$10.70</td>
                     </tr>
                     <tr>
                       <td>1</td>
-                      <td>Grown Ups Blue Ray</td>
+                      <td>Rayo azul para adultos</td>
                       <td>422-568-642</td>
-                      <td>Tousled lomo letterpress</td>
+                      <td>Tipografía lomo despeinada</td>
                       <td>$25.99</td>
                     </tr>
                     </tbody>
@@ -138,7 +138,7 @@
               <div class="row">
                 <!-- accepted payments column -->
                 <div class="col-6">
-                  <p class="lead">Payment Methods:</p>
+                  <p class="lead">Metodos de Pago:</p>
                   <img src="../../dist/img/credit/visa.png" alt="Visa">
                   <img src="../../dist/img/credit/mastercard.png" alt="Mastercard">
                   <img src="../../dist/img/credit/american-express.png" alt="American Express">
@@ -152,7 +152,7 @@
                 </div>
                 <!-- /.col -->
                 <div class="col-6">
-                  <p class="lead">Amount Due 2/22/2014</p>
+                  <p class="lead">Pagar antes de 2/22/2014</p>
 
                   <div class="table-responsive">
                     <table class="table">
@@ -165,7 +165,7 @@
                         <td>$10.34</td>
                       </tr>
                       <tr>
-                        <th>Shipping:</th>
+                        <th>envío:</th>
                         <td>$5.80</td>
                       </tr>
                       <tr>
@@ -187,7 +187,7 @@
                     Payment
                   </button>
                   <button type="button" class="btn btn-primary float-right" style="margin-right: 5px;">
-                    <i class="fas fa-download"></i> Generate PDF
+                    <i class="fas fa-download"></i> Generar PDF
                   </button>
                 </div>
               </div>
